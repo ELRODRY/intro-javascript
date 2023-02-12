@@ -14,4 +14,4 @@ const mensaje = activo ? 'Activo' : 'inactivo'; */
 // forma corta del ternario y del if
 const mensaje = activo && 'Acativo';
 
-console.log(mensaje);
+console.log(mensaje, 'ok');
